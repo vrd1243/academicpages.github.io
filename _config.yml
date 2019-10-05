@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Varad Deshmukh / Personal Website"
+title                    : "Varad Deshmukh"
 title_separator          : "-"
 name                     : &name "Varad Deshmukh"
 description              : &description "personal description"
