@@ -8,7 +8,7 @@ author_profile: true
 <br>
 <b>[Leveraging Topological Data Analysis for Solar Flare Prediction](https://ml-helio.github.io/)</b> <br> 
 <b>Varad Deshmukh</b>, Elizabeth Bradley, Thomas Berger, James Meiss.
-<i>Machine Learning in Helio Physics, Amsterdam.</i>. <b>2016</b>.
+<i>Machine Learning in Helio Physics, Amsterdam, Netherlands</i>. <b>2019</b>.
 
 <br>
 <b>Curvature Based Parameter Selection for Delay-Coordinate Reconstruction</b> <br> 
