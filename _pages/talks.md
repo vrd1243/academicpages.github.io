@@ -29,4 +29,4 @@ author_profile: true
 <b>Nonlinear time-series analysis of solar-wind data from Voyager 2 and New Horizons.</b> <br> 
 <b>Varad Deshmukh</b>, Elizabeth Bradley, Fran Bagenal.
 <br>
-&nbsp;&nbsp;&nbsp;<i>Voyager/New Horizons Workshop, John Hopkins University Applied Physics Laboratory, Laurel, MD. /i>. <b>2018</b>. (Invited Talk)
+&nbsp;&nbsp;&nbsp;<i>Voyager/New Horizons Workshop, John Hopkins University Applied Physics Laboratory, Laurel, MD</i>. <b>2018</b>. (Invited Talk)
