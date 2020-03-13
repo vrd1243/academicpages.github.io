@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 <br>
+<b>Leveraging the Mathematics of Shape for Solar Magnetic Eruption Prediction</b> <br> 
+<b>V. Deshmukh</b>, T.E. Berger, E. Bradley, J.D. Meiss.
+<i>Journal of Space Weather and Space Climate (accepted)</i>. <b>2020</b> ([preprint]((https://arxiv.org/abs/2003.05827))).
+
+
+<br>
 <b>[Temporary frequency adjustment of mobile device processors based on task migration](https://patents.google.com/patent/US9400518B2/en)</b> <br> 
 <b>Varad Deshmukh</b>, Stephen Muckle, Bryan Huntsman, Veena Sambasivan, Srivastsa Vaddagiri.
 <i>US Patent 9400518</i>. <b>2016</b>.
