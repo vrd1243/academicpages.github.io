@@ -13,7 +13,7 @@ author_profile: true
 <br>
 <b>Leveraging the Mathematics of Shape for Solar Magnetic Eruption Prediction</b> <br> 
 <b>V. Deshmukh</b>, T.E. Berger, E. Bradley, J.D. Meiss.
-<i>Journal of Space Weather and Space Climate </i>. <b>2020</b> (Accepted) ([preprint]((https://arxiv.org/abs/2003.05827))).
+<i>Journal of Space Weather and Space Climate </i>. <b>2020</b> (Accepted) (<a href="https://arxiv.org/abs/2003.05827">preprint</a>).
 
 
 <br>
