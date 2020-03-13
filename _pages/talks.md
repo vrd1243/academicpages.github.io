@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <br>
-<b>[Leveraging Topological Data Analysis for Solar Flare Prediction](https://ml-helio.github.io/)</b> <br> 
+<b>Leveraging Topological Data Analysis for Solar Flare Prediction</b> <br> 
 <b>Varad Deshmukh</b>, Elizabeth Bradley, Thomas Berger, James Meiss.
 <br>
 <i>American Geophysical Union, San Francisco, CA</i>, <b>December 2019</b>.
@@ -20,11 +20,9 @@ author_profile: true
 <br>
 <b>Curvature Based Parameter Selection for Delay-Coordinate Reconstruction</b> <br> 
 <b>Varad Deshmukh</b>, Elizabeth Bradley, Joshua Garland, James Meiss.
-<i>SIAM Dynamical Systems, Snowbird, UT</i>. <b>2019</b>.
-
 <br>
-<b>Using curvature to understand the structure of dynamics.</b> <br> 
-<b>Varad Deshmukh</b>, Elizabeth Bradley, Joshua Garland, James Meiss.
+<i>SIAM Dynamical Systems, Snowbird, UT</i>. <b>2019</b>.
+<br>
 <i>Santa Fe Institute, NM (Invited Talk)</i>. <b>2019</b>.
 
 <br>
