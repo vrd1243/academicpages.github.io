@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 <br>
+<b> <u> Spring 2020 </u>: Data Structures (CSCI 2270) (TA) </b>
+<br>
 <b> <u> Fall 2017 </u>: Algorithms (CSCI 3104) (TA) </b>
 <br>
 <b> <u> Winter 2013 </u>: Parallel Scientific Computing (CS 140) (TA) </b>
