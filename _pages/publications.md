@@ -13,7 +13,7 @@ author_profile: true
 <br>
 <b>Leveraging the Mathematics of Shape for Solar Magnetic Eruption Prediction</b> <br> 
 <b>V. Deshmukh</b>, T.E. Berger, E. Bradley, J.D. Meiss.
-<i>Journal of Space Weather and Space Climate.</i> <b>2020</b> (Accepted) (<a href="https://arxiv.org/abs/2003.05827">arxiv</a>, <a href="https://www.swsc-journal.org/articles/swsc/full_html/2020/01/swsc190060/swsc190060.html">link</a>).
+<i>Journal of Space Weather and Space Climate.</i> <b>2020</b> (<a href="https://arxiv.org/abs/2003.05827">arxiv</a>, <a href="https://www.swsc-journal.org/articles/swsc/full_html/2020/01/swsc190060/swsc190060.html">link</a>).
 
 <br>
 <b>Temporary frequency adjustment of mobile device processors based on task migration</b> <br> 
