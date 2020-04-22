@@ -21,6 +21,8 @@ author_profile: true
 <b>Curvature Based Parameter Selection for Delay-Coordinate Reconstruction</b> <br> 
 <b>Varad Deshmukh</b>, Elizabeth Bradley, Joshua Garland, James Meiss.
 <br>
+&nbsp;&nbsp;&nbsp;<i>SIAM Mathematics of Data Science, Cincinnati, OH</i>. <b>2020 (Postponed)</b>. (Invited Talk)
+<br>
 &nbsp;&nbsp;&nbsp;<i>SIAM Dynamical Systems, Snowbird, UT</i>. <b>2019</b>.
 <br>
 &nbsp;&nbsp;&nbsp;<i>Santa Fe Institute, NM</i>. <b>2019</b>. (Invited Talk)
