@@ -13,7 +13,7 @@ author_profile: true
 <br>
 &nbsp;&nbsp;&nbsp;<i>Inter University Center for Astronomy and Astrophysics Solar Journal Club, Pune, India</i>, <b>November 2019</b>. (Invited Talk)
 <br>
-&nbsp;&nbsp;&nbsp;<i>National Solar Observatory Solar Focus Meeting, Boulder, CO,</i>, <b>November 2019</b>. (Invited Talk)
+&nbsp;&nbsp;&nbsp;<i>National Solar Observatory Solar Focus Meeting, Boulder, CO</i>, <b>November 2019</b>. (Invited Talk)
 <br>
 &nbsp;&nbsp;&nbsp;<i>Machine Learning in Helio Physics, Amsterdam, Netherlands</i>, <b>September 2019</b>.
 
