@@ -8,7 +8,7 @@ author_profile: true
 <br>
 <b>Using Curvature to Select the Time Lag for Delay Reconstruction</b> <br> 
 <b>Varad Deshmukh</b>, Elizabeth Bradley, Joshua Garland, and James Meiss.
-<i>AIP Chaos</i>. <b>2020</b> (Accepted) (<a href="https://arxiv.org/abs/2003.06509">arxiv</a>).
+<i>AIP Chaos</i>. <b>2020</b> (<a href="https://arxiv.org/abs/2003.06509">arxiv</a>, <a href="https://aip.scitation.org/doi/10.1063/5.0005890">link</a>).
 
 <br>
 <b>Leveraging the Mathematics of Shape for Solar Magnetic Eruption Prediction</b> <br> 
