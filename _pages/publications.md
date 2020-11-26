@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 <br>
+<b>Shape-based Feature Engineering for Solar Flare Prediction</b> <br> 
+<b>V. Deshmukh</b>, T.E. Berger, E. Bradley, J.D. Meiss.
+<i>Innovative Applications of Artificial Intelligence</i>. <b>2021</b> (Conditional Accept, Under Review).
+
+<br>
 <b>Using Curvature to Select the Time Lag for Delay Reconstruction</b> <br> 
 <b>Varad Deshmukh</b>, Elizabeth Bradley, Joshua Garland, and James Meiss.
 <i>AIP Chaos</i>. <b>2020</b> (<a href="https://arxiv.org/abs/2003.06509">arxiv</a>, <a href="https://aip.scitation.org/doi/10.1063/5.0005890">link</a>).
