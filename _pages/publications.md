@@ -8,7 +8,7 @@ author_profile: true
 <br>
 <b>Shape-based Feature Engineering for Solar Flare Prediction</b> <br> 
 <b>V. Deshmukh</b>, T.E. Berger, E. Bradley, J.D. Meiss.
-<i>Innovative Applications of Artificial Intelligence</i>. <b>2021</b> (Conditional Accept, Under Review).
+<i>Innovative Applications of Artificial Intelligence</i>. <b>2021</b> (Accepted).
 
 <br>
 <b>Using Curvature to Select the Time Lag for Delay Reconstruction</b> <br> 
